@@ -1,0 +1,11 @@
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample.api\bin\Debug\netcoreapp1.1\aspnetcore-angular-sample.api.deps.json
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample.api\bin\Debug\netcoreapp1.1\aspnetcore-angular-sample.api.runtimeconfig.json
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample.api\bin\Debug\netcoreapp1.1\aspnetcore-angular-sample.api.runtimeconfig.dev.json
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample.api\bin\Debug\netcoreapp1.1\aspnetcore-angular-sample.api.dll
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample.api\bin\Debug\netcoreapp1.1\aspnetcore-angular-sample.api.pdb
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample.api\obj\Debug\netcoreapp1.1\aspnetcore-angular-sample.api.AssemblyInfo.cs
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample.api\obj\Debug\netcoreapp1.1\aspnetcore-angular-sample.api.dll
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample.api\obj\Debug\netcoreapp1.1\aspnetcore-angular-sample.api.pdb
+C:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample.api\obj\Debug\netcoreapp1.1\aspnetcore-angular-sample.api.csprojResolveAssemblyReference.cache
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample.api\obj\Debug\netcoreapp1.1\aspnetcore-angular-sample.api.csproj.CoreCompileInputs.cache
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample.api\obj\Debug\netcoreapp1.1\aspnetcore-angular-sample.api.AssemblyInfoInputs.cache

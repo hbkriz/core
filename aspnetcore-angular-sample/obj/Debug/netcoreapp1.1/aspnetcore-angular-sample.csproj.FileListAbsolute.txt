@@ -1,0 +1,8 @@
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample\bin\Debug\netcoreapp1.1\aspnetcore-angular-sample.deps.json
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample\bin\Debug\netcoreapp1.1\aspnetcore-angular-sample.runtimeconfig.json
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample\bin\Debug\netcoreapp1.1\aspnetcore-angular-sample.runtimeconfig.dev.json
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample\bin\Debug\netcoreapp1.1\aspnetcore-angular-sample.dll
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample\bin\Debug\netcoreapp1.1\aspnetcore-angular-sample.pdb
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample\obj\Debug\netcoreapp1.1\aspnetcore-angular-sample.AssemblyInfo.cs
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample\obj\Debug\netcoreapp1.1\aspnetcore-angular-sample.dll
+c:\Users\BALAKH\Desktop\core\aspnetcore-angular-sample\obj\Debug\netcoreapp1.1\aspnetcore-angular-sample.pdb
